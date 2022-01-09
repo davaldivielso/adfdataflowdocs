@@ -1,0 +1,9 @@
+{
+	"name": "InstanciaDataFactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bf1e4300-5a1e-4713-a0bb-2123620b53a5",
+		"tenantId": "a346b66f-0025-413a-8d12-59a96f499e85"
+	}
+}
